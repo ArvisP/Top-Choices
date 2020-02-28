@@ -1,4 +1,4 @@
-// Created by Arvis Peralta for SSA 2017
+// Created by Arvis Peralta
 
 public class Student {
 	private String firstName;

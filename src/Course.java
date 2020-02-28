@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 
-// Created by Arvis Peralta for SSA 2017
+// Created by Arvis Peralta
 
 public class Course {
 	private String name;
