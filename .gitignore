@@ -1,0 +1,9 @@
+# Editor generated files #
+.project
+.settings
+.classpath
+##########################
+
+# OS generated files #
+######################
+.DS_Store
